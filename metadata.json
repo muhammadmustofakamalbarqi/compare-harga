@@ -1,0 +1,6 @@
+{
+  "name": "FA PriceCheck",
+  "description": "Sistem perbandingan harga mobil bekas berbasis AI untuk PT Fokus Abadi Mobil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
